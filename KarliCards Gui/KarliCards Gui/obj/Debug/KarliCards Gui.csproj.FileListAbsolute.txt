@@ -1,0 +1,24 @@
+C:\Martin\KarliCards Gui\KarliCards Gui\bin\Debug\KarliCards Gui.exe.config
+C:\Martin\KarliCards Gui\KarliCards Gui\bin\Debug\KarliCards Gui.exe
+C:\Martin\KarliCards Gui\KarliCards Gui\bin\Debug\KarliCards Gui.pdb
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui.csprojAssemblyReference.cache
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\About.g.cs
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\MainWindow.g.cs
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\App.g.cs
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui_MarkupCompile.cache
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui_MarkupCompile.lref
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\About.baml
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\MainWindow.baml
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui.g.resources
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards_Gui.Properties.Resources.resources
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui.csproj.GenerateResource.cache
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui.csproj.CoreCompileInputs.cache
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui.exe
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\KarliCards Gui.pdb
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\Options.g.cs
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\Options.baml
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\StartGame.g.cs
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\StartGame.baml
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\GameClient.g.cs
+C:\Martin\KarliCards Gui\KarliCards Gui\obj\Debug\GameClient.baml
